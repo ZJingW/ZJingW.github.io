@@ -190,10 +190,10 @@
   
   <entry>
     <title>代码面试需要知道的8种数据结构</title>
-    <link href="https://zjingw.github.io/2020/09/24/%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%848%E7%A7%8D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-1/"/>
-    <id>https://zjingw.github.io/2020/09/24/%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%848%E7%A7%8D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-1/</id>
+    <link href="https://zjingw.github.io/2020/09/24/%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%848%E7%A7%8D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>https://zjingw.github.io/2020/09/24/%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%848%E7%A7%8D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
     <published>2020-09-24T04:43:20.000Z</published>
-    <updated>2020-09-25T10:20:47.000Z</updated>
+    <updated>2021-01-13T06:09:25.974Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;什么是数据结构？&lt;/strong&gt;&lt;br&gt;数据结构是计算机存储、组织数据的方式。对于特定的数据结构(比如数组)，有些操作效率很高(读某个数组元素)，有些操作的效率很低(删除某个数组元素)。程序员的目标是为当前的问题选择最优的数据结构。&lt;/p&gt;</summary>
